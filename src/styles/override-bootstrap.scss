@@ -1,0 +1,14 @@
+.alert {
+  &.is-validation {
+    padding: 9px 0;
+    margin: 0;
+    background: transparent;
+    border: none;
+    font-style: italic;
+  }
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
